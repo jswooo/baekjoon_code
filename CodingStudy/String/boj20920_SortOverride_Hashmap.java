@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 // 참고: https://github.com/GLLSLP/Algorithm/blob/main/%EB%B0%B1%EC%A4%80_20920_%EC%98%81%EB%8B%A8%EC%96%B4%EC%95%94%EA%B8%B0%EB%8A%94%EA%B4%B4%EB%A1%9C%EC%9B%8C.java
 
-public class Q20920_SortOverride_Hashmap {
+public class boj20920_SortOverride_Hashmap {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
